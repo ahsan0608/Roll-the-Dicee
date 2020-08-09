@@ -1,9 +1,9 @@
 //
 //  SceneDelegate.swift
-//  Roll the Dicee
+//  Test
 //
-//  Created by Ahsan on 8/8/20.
-//  Copyright © 2020 Ahsan.fish. All rights reserved.
+//  Created by Angela Yu on 13/06/2019.
+//  Copyright © 2019 London App Brewery. All rights reserved.
 //
 
 import UIKit
